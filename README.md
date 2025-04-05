@@ -1,0 +1,2 @@
+# Sahne Software Graphis Book
+Sahne Software Graphic Book is a graphic library designed for GUI developed by Sahne Dünya. The reason Sahne Dünya created this Library is independence! Sahne Dünya is an alternative to software such as GTK+ and Qt, I must say that it is platform independent! But be careful not to be fooled by the earring on the logo of this software because this software does not support 3d graphics, it supports 2d! Areas of use are 2d games, Application development, Desktop Environment etc. It is used in GUI studies!
